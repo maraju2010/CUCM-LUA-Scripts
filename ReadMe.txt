@@ -1,4 +1,4 @@
-This script blocks outbound calls made from jabber while allowing calls from Finesse client.
+# This script blocks outbound calls made from jabber while allowing calls from Finesse client.
 
 Go to DeviceSettings > Sip Normalization Script > Click Add New
 Table 91: SIP Normalization
